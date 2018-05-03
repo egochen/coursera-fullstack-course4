@@ -1,0 +1,56 @@
+#header-nav {
+  background-color: darkgrey;
+}
+.navbar {
+  border-bottom: 2px solid black;
+}
+
+.navbar-brand h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+  margin-top: -5px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+#nav-list {
+  background: white;
+  font-size: 1.2em;
+}
+#nav-list li {
+  border: 2px solid black;
+  margin-bottom: -2px;
+}
+#nav-list li:hover {
+  background: #E7E7E7;
+}
+
+.page-header {
+  padding-bottom: 20px;
+  margin: 0;
+  border-bottom: 0px;
+}
+
+#main-content {
+  background: white;
+}
+
+.col {
+  /* background-color: lightgrey; */
+}
+a {
+  text-decoration: underline;
+}
+h3 {
+  background-color: lightgrey;
+  padding-top: 20px;
+  margin-bottom: 0px;
+}
+p {
+  /* width: 90%; */
+  background-color: lightgrey;
+  padding: 20px;
+}
